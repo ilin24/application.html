@@ -1,0 +1,2 @@
+# application.html
+admission form
